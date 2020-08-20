@@ -1,0 +1,34 @@
+# Operating System Files
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Build Artifacts
+
+build/
+target/
+bin/
+
+# Eclipse Project Files
+.class
+*.class
+.target
+.classpath
+.project
+.settings/
+
+README.md
+#pom.xml
+
+# STS (Spring Tool Suite)
+.springBeans
+
